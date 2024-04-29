@@ -1,0 +1,19 @@
+{
+    "clase": [
+        { "id" : 1, "nombre" : "Clases de piano"},
+        { "id" : 2, "nombre" : "Clases de guitarra"},
+        { "id" : 3, "nombre" : "Clases de canto"}
+    ],
+    "alumno" :[
+        { "id" : 1, "nombre" : "Roberto", "appelido" : "Saldana", "uuid" : "bd34f103-2d88-4dee-9089-717cb1ced9a7"},
+        { "id" : 2, "nombre" : "Carlos", "appelido" : "Garcia", "uuid" : "8dd26eaf-3a6c-4969-a5ce-48a9d7be8628"},
+        { "id" : 3, "nombre" : "Alumno", "appelido" : "Nuevo", "uuid" : "b8a286d3-27dc-48bf-9418-db5566e54e88"}
+    ],
+    "subscripcion" : [
+        { "id" : 1, "alumno" : 1, "clase" : 1, "costo" : 100, "diaPago" : 10, "estado" : 1},
+        { "id" : 2, "alumno" : 1, "clase" : 2, "costo" : 250, "diaPago" : 10, "estado" : 1},
+        { "id" : 3, "alumno" : 2, "clase" : 1, "costo" : 110, "diaPago" : 8, "estado" : 1},
+        { "id" : 4, "alumno" : 2, "clase" : 3, "costo" : 100, "diaPago" : 5, "estado" : 0},
+        { "id" : 5, "alumno" : 3, "clase" : 1, "costo" : 150, "diaPago" : 5, "estado" : 1}
+    ]
+}

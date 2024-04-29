@@ -1,0 +1,22 @@
+{
+  "name": "backend-subs-control",
+  "version": "1.0.0",
+  "description": "Backend para app de control de subscripciones",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codefornoncoders/backend-subs-control.git"
+  },
+  "author": "codefornoncoders",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codefornoncoders/backend-subs-control/issues"
+  },
+  "homepage": "https://github.com/codefornoncoders/backend-subs-control#readme",
+  "dependencies": {
+    "json-server": "^1.0.0-alpha.23"
+  }
+}
