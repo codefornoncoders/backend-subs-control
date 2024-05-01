@@ -21,23 +21,23 @@
     {
       "id": "1",
       "nombre": "Roberto",
-      "appelido": "Saldana",
+      "apellido": "Saldana",
       "uuid": "bd34f103-2d88-4dee-9089-717cb1ced9a7"
     },
     {
       "id": "2",
       "nombre": "Carlos",
-      "appelido": "Garcia",
+      "apellido": "Garcia",
       "uuid": "8dd26eaf-3a6c-4969-a5ce-48a9d7be8628"
     },
     {
       "id": "3",
       "nombre": "Alumno",
-      "appelido": "Nuevo",
+      "apellido": "Nuevo",
       "uuid": "b8a286d3-27dc-48bf-9418-db5566e54e88"
     }
   ],
-  "subscripcion": [
+  "suscripcion": [
     {
       "id": "1",
       "alumno": 1,
