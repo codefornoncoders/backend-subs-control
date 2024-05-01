@@ -9,7 +9,7 @@
         { "id" : 2, "nombre" : "Carlos", "appelido" : "Garcia", "uuid" : "8dd26eaf-3a6c-4969-a5ce-48a9d7be8628"},
         { "id" : 3, "nombre" : "Alumno", "appelido" : "Nuevo", "uuid" : "b8a286d3-27dc-48bf-9418-db5566e54e88"}
     ],
-    "subscripcion" : [
+    "suscripcion" : [
         { "id" : 1, "alumno" : 1, "clase" : 1, "costo" : 100, "diaPago" : 10, "estado" : 1},
         { "id" : 2, "alumno" : 1, "clase" : 2, "costo" : 250, "diaPago" : 10, "estado" : 1},
         { "id" : 3, "alumno" : 2, "clase" : 1, "costo" : 110, "diaPago" : 8, "estado" : 1},
