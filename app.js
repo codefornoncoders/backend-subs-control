@@ -1,13 +1,15 @@
 const jsonServer = require('json-server')
+const path = require('path')
 
 const server = jsonServer.create()
 
-console.log(__dirname)
-const router = jsonServer.router(__dirname+'/db.json')
+const router = jsonServer.router(path.join(__dirname, '/db.json'))
 const middlewares = jsonServer.defaults()
  
 server.use(middlewares)
 server.use('/api', router)
 server.listen(process.env.PORT || 5000, () => {
   console.log('JSON Server is running')
+  console.log(path.join(__dirname, '/db.json'))
+
 })

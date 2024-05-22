@@ -2,19 +2,23 @@
   "clase": [
     {
       "id": "1",
-      "nombre": "Clases de piano"
+      "nombre": "Clases de piano",
+      "costo" : "100"
     },
     {
       "id": "2",
-      "nombre": "Clases de guitarra"
+      "nombre": "Clases de guitarra",
+      "costo" : "150"
     },
     {
       "id": "3",
-      "nombre": "Clases de canto"
+      "nombre": "Clases de canto",
+      "costo" : "200"
     },
     {
       "id": 4,
-      "nombre": "Clase de bateria"
+      "nombre": "Clase de bateria",
+      "costo" : "90"
     }
   ],
   "alumno": [
