@@ -41,6 +41,22 @@
       "uuid": "b8a286d3-27dc-48bf-9418-db5566e54e88"
     }
   ],
+  "pago":[
+    {
+      "id": 1,
+      "alumno" : 1,
+      "clase" : 0,
+      "pago" : 350,
+      "fechaPago" : "1/06/2024"
+    },
+    {
+      "id" : 2,
+      "alumno" : 2,
+      "clase" : 1,
+      "pago" : 110,
+      "fechaPago" : "3/06/2024"
+    }
+  ],
   "suscripcion": [
     {
       "id": "1",
