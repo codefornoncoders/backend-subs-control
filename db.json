@@ -47,53 +47,55 @@
       "alumno" : 1,
       "clase" : 0,
       "pago" : 350,
-      "fechaPago" : "1/06/2024"
+      "fechaPago" : "1/06/2024",
+      "comentario" : "Este es un comentario"
     },
     {
       "id" : 2,
       "alumno" : 2,
       "clase" : 1,
       "pago" : 110,
-      "fechaPago" : "3/06/2024"
+      "fechaPago" : "3/06/2024",
+      "comentario" : "pago en tarjeta"
     }
   ],
   "suscripcion": [
     {
       "id": "1",
-      "alumno": 1,
-      "clase": 1,
+      "alumno": "1",
+      "clase": "1",
       "costo": 100,
       "diaPago": 10,
       "estado": 1
     },
     {
       "id": "2",
-      "alumno": 1,
-      "clase": 2,
+      "alumno": "1",
+      "clase": "2",
       "costo": 250,
       "diaPago": 10,
       "estado": 1
     },
     {
       "id": "3",
-      "alumno": 2,
-      "clase": 1,
+      "alumno": "2",
+      "clase": "1",
       "costo": 110,
       "diaPago": 8,
       "estado": 1
     },
     {
       "id": "4",
-      "alumno": 2,
-      "clase": 3,
+      "alumno": "2",
+      "clase": "3",
       "costo": 100,
       "diaPago": 5,
       "estado": 0
     },
     {
       "id": "5",
-      "alumno": 3,
-      "clase": 1,
+      "alumno": "3",
+      "clase": "1",
       "costo": 150,
       "diaPago": 5,
       "estado": 1
